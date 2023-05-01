@@ -3,9 +3,8 @@ body {
 }
 
 h1 {
-    text-align: center;
+    text-align:center;
 }
-
 /* Start of Menu Dropdown Button Style*/
 .dropbtn {
   background-color: #65aaaa;
@@ -49,7 +48,7 @@ h1 {
 .dropdown:hover .dropbtn {background-color: #bb80a3;}
 /*End of Menu Dropdown Button Style*/
 
-/*Start of Contact Page Style*/
+/*Start of Events Page Title Style*/
 @import url(https://fonts.googleapis.com/css?family=Oswald:400|Open+Sans:700);
 
 @import url(http://weloveiconfonts.com/api/?family=fontawesome);
@@ -122,4 +121,4 @@ h3:before {
 h3:after {
   margin: 5px 0 0 10px;
 }
-/*End of Contact Page Title Style*/
+/*End of Events Page Title Style*/
